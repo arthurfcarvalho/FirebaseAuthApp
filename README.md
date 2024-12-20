@@ -18,7 +18,7 @@ A simple mobile application implementing user authentication using Firebase Auth
 ### How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/firebase-auth-app.git
+   git clone https://github.com/arthurfcarvalho/FirebaseAuthApp.git
 2. Open the project in Android Studio.
 3. Ensure the Firebase configuration (google-services.json) is properly set up.
 4. Build and run the project on an emulator or physical device.
